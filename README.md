@@ -1,2 +1,2 @@
 # RustCon-Asia
-Materies for RustCon Asia
+Materials for RustCon Asia
